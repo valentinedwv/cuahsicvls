@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<ModelDocumentManifest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Documents>
+    <Document FullPath="C:\dev_2012\CuahsiCvLs\CuahsiCvLs\Client\Properties\Client.lsml" Checksum="00E5FCACA0D95552235AE566B6646520AF820577157186F4C68100CE04E4BFFF" />
+    <Document FullPath="C:\dev_2012\CuahsiCvLs\CuahsiCvLs\Common\Properties\Common.lsml" Checksum="43F6AED983F090C0DE701C3BFAA4DAB1D718E080B1614EDD42FFCC486FE77869" />
+  </Documents>
+</ModelDocumentManifest>

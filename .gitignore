@@ -1,0 +1,7 @@
+/_ReSharper.CuahsiCvLs
+Bin
+*.user
+obj
+GeneratedArtifacts
+_Pvt_Extensions
+*.suo
